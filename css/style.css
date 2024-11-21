@@ -68,13 +68,12 @@ background-color: rgb(241,252,247);
 background-color: rgb(235,251,245);
     border: 1px solid grey;
     margin: 10px 100px;
-    padding: 10px;
     justify-content: space-evenly;
     flex-wrap: wrap;
   }
   .item{
     text-align: center;
-   padding: 20px;
+/*    padding: 20px; */
     /* background-color: yellow; */
     margin: 10px;
   }
