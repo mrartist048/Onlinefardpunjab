@@ -11,10 +11,11 @@
 /* body{
 background-color: rgb(241,252,247);
 
-  background-image: url('/img/Untitled\ design.png');
+  background-image: url(../img/crop-img.png));
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: bottom;
+  background-size: 100% ;
 
 } */
  body{
